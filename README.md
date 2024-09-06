@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Damir Zhantenov
-- 👀 I’m interested in Python and AI
+- 👀 I’m interested in Python 
 - 🌱 I’m currently learning Django
 - 📫 How to reach me -->Zhantenovdamir@icloud.com
 
