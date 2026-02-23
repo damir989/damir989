@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Damir Zhantenov
+- 👋 Hi, I’m Damir 
 - 👀 I’m interested in Python 
 - 🌱 I’m currently learning Django
-- 📫 How to reach me -->Zhantenovdamir@icloud.com
 
 <!---
 damir989/damir989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
